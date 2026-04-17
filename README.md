@@ -1,4 +1,4 @@
-# BMS
+# BMS-PCB
 
 ### Overview
 The BMS PCB is a lightweight, compact prototype board designed to address the challenges of safely using lithium-based batteries in aerospace applications, such as extraterrestrial rovers.
